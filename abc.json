@@ -1,0 +1,17 @@
+{
+    "name": "is-yunos-device",
+    "comName":"Gallery",
+    "version": "1.0",
+    "desc": "",
+    "tag":"yunos,kissy-mini",
+    "githubName":"mymickey",
+    "author": {
+        "name": "方元",
+        "email": "fangyuan.yzh@alibaba-inc.com",
+        "page": ""
+    },
+	"flexComboPort":"8081",
+	"reserveServerPort":"8082",
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
