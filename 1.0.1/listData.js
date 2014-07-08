@@ -396,11 +396,7 @@ KISSY.add(function(S){
 			"name_e": "AMOI N850",
 			"name_c": "N850",
 			"name": "夏新"
-		}, {
-			"name_e": "HUAWEI",
-			"name_c": "",
-			"name": "广鑫"
-		}, {
+		},  {
 			"name_e": "Q22",
 			"name_c": "",
 			"name": "红星"
@@ -884,11 +880,7 @@ KISSY.add(function(S){
 			"name_e": "F1",
 			"name_c": "",
 			"name": "夏米"
-		}, {
-			"name_e": "Lenovo",
-			"name_c": "",
-			"name": ""
-		}, {
+		},  {
 			"name_e": "OUKI A56",
 			"name_c": "",
 			"name": "欧奇"
