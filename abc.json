@@ -1,7 +1,7 @@
 {
     "name": "is-yunos-device",
     "comName":"Gallery",
-    "version": "1.0",
+    "version": "1.0.1",
     "desc": "",
     "tag":"yunos,kissy-mini",
     "githubName":"mymickey",

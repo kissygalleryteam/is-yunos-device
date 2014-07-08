@@ -1,11 +1,11 @@
 /*
 combined files : 
 
-gallery/is-yunos-device/1.0/listData
-gallery/is-yunos-device/1.0/index
+gallery/is-yunos-device/1.0.1/listData
+gallery/is-yunos-device/1.0.1/index
 
 */
-KISSY.add('gallery/is-yunos-device/1.0/listData',function(S){
+KISSY.add('gallery/is-yunos-device/1.0.1/listData',function(S){
 	var data = {
 		"list": [{
 			"name_e": "G9",
@@ -403,11 +403,7 @@ KISSY.add('gallery/is-yunos-device/1.0/listData',function(S){
 			"name_e": "AMOI N850",
 			"name_c": "N850",
 			"name": "夏新"
-		}, {
-			"name_e": "HUAWEI",
-			"name_c": "",
-			"name": "广鑫"
-		}, {
+		},  {
 			"name_e": "Q22",
 			"name_c": "",
 			"name": "红星"
@@ -891,11 +887,7 @@ KISSY.add('gallery/is-yunos-device/1.0/listData',function(S){
 			"name_e": "F1",
 			"name_c": "",
 			"name": "夏米"
-		}, {
-			"name_e": "Lenovo",
-			"name_c": "",
-			"name": ""
-		}, {
+		},  {
 			"name_e": "OUKI A56",
 			"name_c": "",
 			"name": "欧奇"
@@ -1375,7 +1367,7 @@ KISSY.add('gallery/is-yunos-device/1.0/listData',function(S){
 	};
 	return data
 });
-KISSY.add('gallery/is-yunos-device/1.0/index',function  (S,listData) {
+KISSY.add('gallery/is-yunos-device/1.0.1/index',function  (S,listData) {
 	return {
 		getInfo:function  () {
 			var uaStr = navigator.userAgent;
