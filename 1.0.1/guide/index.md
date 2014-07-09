@@ -2,9 +2,12 @@
 
 is-yunos-device
 
+
+
 * 版本：1.0
 * 作者：方元
 * demo：[http://gallery.kissyui.com/is-yunos-device/1.0/demo/index.html](http://gallery.kissyui.com/gallery/1.0/demo/index.html)
+* 功能: 根据UA来判断手机是否是云OS系统。
 
 ## 初始化组件
 		
