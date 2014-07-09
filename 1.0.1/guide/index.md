@@ -11,6 +11,12 @@ is-yunos-device
     S.use('gallery/is-yunos-device/1.0/index', function (S, is) {
           var info = is.getInfo();
             alert(JSON.stringify(info))
+            /*数据格式
+            {
+            	data:yunosItem,//-> {"name_e": "G9","name_c": "大7","name": "基伍"}
+            	is:false or true
+            };
+            */
     })
 	
 
